@@ -27,7 +27,7 @@ education:
   courses:
   - course: MSc in Artificial Intelligence
     institution: University of Pisa
-    year: "2020 - currently"
+    year: "Currently"
   - course: BSc in Computer Science
     institution: University of Pisa
     year: 2020   
@@ -72,7 +72,7 @@ email: ""
 highlight_name: false
 ---
 
-I'm 24 years old, I currently live in [Pisa](https://goo.gl/maps/WvUJxFbKdFVeU7rj9) and I am student of the Master's Degree course in [Artificial Intelligence](https://didattica.di.unipi.it/laurea-magistrale-in-informatica/curricula/curriculum-artificial-intelligence/) at the Computer Science department of the University of Pisa. 
-During my studies I gained deep expertise in Machine Learning, Deep Learning and Neural Network models.
+Domenico Profumo is a 25 years old Student of the Master's Degree course in [Artificial Intelligence](https://didattica.di.unipi.it/laurea-magistrale-in-informatica/curricula/curriculum-artificial-intelligence/) at the Computer Science department of the University of PisaI currently live in [Pisa](https://goo.gl/maps/WvUJxFbKdFVeU7rj9) and at the sametime work for [National Research Council Institute of Clinical Physiology](https://www.ifc.cnr.it/index.php/en/istituto/ifc) of Italy.
+He is a expertise in Machine Learning, Deep Learning and Neural Network models. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
