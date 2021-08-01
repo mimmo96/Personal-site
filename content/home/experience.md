@@ -28,7 +28,7 @@ experience:
 #    company_logo: 'https://www.ifc.cnr.it/images/logo-ifc-esteso-ing.png'
     location: Italy
     date_start: '2020-10-12'
-    date_end: 'current'
+    date_end: ''
     description: |2-
         Responsibilities include:
         
