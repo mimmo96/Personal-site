@@ -25,9 +25,9 @@ experience:
   - title: Software Engineer
     company: CNR-IFC
     company_url: 'https://www.ifc.cnr.it/index.php/en/istituto/ifc'
-    company_logo: 'https://www.ifc.cnr.it/images/logo-ifc-esteso-ing.png'
+#    company_logo: 'https://www.ifc.cnr.it/images/logo-ifc-esteso-ing.png'
     location: Italy
-    date_start: '2020-1\-12'
+    date_start: '2020-11-12'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -41,7 +41,7 @@ experience:
   - title: Thesis
     company: University of Pisa
     company_url: 'https://didattica.di.unipi.it/laurea-in-informatica/'
-    company_logo: 'https://upload.wikimedia.org/wikipedia/commons/9/94/Unipi_logo.jpg'
+#    company_logo: 'https://upload.wikimedia.org/wikipedia/commons/9/94/Unipi_logo.jpg'
     location: Italy
     date_start: '2020-02-10'
     date_end: '2020-05-15'
