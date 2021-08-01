@@ -33,10 +33,6 @@ coordinates:
   longitude: '10.407511'
 
 contact_links:
-  - icon: at
-    icon_pack: fas
-    name: domenico.profumo@alice.it
-    link: 'mailto:domenico.profumo@alice.it'
   - icon: skype
     icon_pack: fab
     name: domenico.profumo
