@@ -5,7 +5,7 @@
 
 title: Domenico Profumo # Website name
 baseurl: 'https://domenicoprofumo.netlify.app # Website URL'
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: ' <br/> Copyrights © 2021 |  Domenico Profumo  | All Rights Reserved.' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

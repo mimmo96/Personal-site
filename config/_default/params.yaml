@@ -33,18 +33,40 @@ coordinates:
   longitude: '10.407511'
 
 contact_links:
+ - icon: at
+    icon_pack: fas
+    name: domenico.profumo@alice.it
+    link: 'mailto:domenico.profumo@alice.it'
   - icon: skype
     icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
+    name: domenico.profumo
+    link: 'skype:domenico.profumo'
+  - icon: github
     icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: mimmo96
+    link: 'https://github.com/mimmo96'
+  - icon: linkedin
+    icon_pack: fab
+    name: Domenico Profumo
+    link: 'https://it.linkedin.com/in/domenico-profumo-b55543192'
+  - icon: facebook
+    icon_pack: fab
+    name: Domenico Profumo
+    link: 'https://www.facebook.com/domenico.profumo/'
+  - icon: instagram
+    icon_pack: fab
+    name: mimmo_pro
+    link: 'https://www.instagram.com/mimmo_pro/'
+  - icon: discord
+    icon_pack: fab
+    name: mimmo96#5465
+    link: 'discord:mimmo96#5465'
+  - icon: telegram
+    icon_pack: fab
+    name: domenicoprofumo
+    link: 'https://t.me/peaceloveandfreedom'
+    display:
+      header: true
 
 # Site header
 

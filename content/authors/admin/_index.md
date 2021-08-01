@@ -6,7 +6,7 @@ title: Domenico Profumo
 superuser: true
 
 # Role/position/tagline
-role: Student of Artificial Intelligence
+role: Master of Science student in Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.unipi.it
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include AI.
 
 # Interests to show in About widget
 interests:
@@ -25,15 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc in Artificial Intelligence
+    institution: University of Pisa
+    year: "2020 - currently"
+  - course: BSc in Computer Science
+    institution: University of Pisa
+    year: 2020   
+  - course: Scientific high school diploma
+    institution: "Liceo Scientifico A.Sciascia, Canicattì (Agrigento)"
+    year: 2016 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,19 +42,21 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
+  link: 'mailto:domenico.profumo@gmail.com'
+- icon: telegram
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  name: domenicoprofumo
+  link: 'https://t.me/peaceloveandfreedom'
+- icon: instagram
+  icon_pack: fab
+  name: mimmo_pro
+  link: 'https://www.instagram.com/mimmo_pro/'
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/mimmo96
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://it.linkedin.com/in/domenico-profumo-b55543192
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +72,7 @@ email: ""
 highlight_name: false
 ---
 
-Domenico Profumo is a student of artificial intelligence at the University of Pisa. His interests include machine learning, robotics, information retrival and other. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm 24 years old, I currently live in [Pisa](https://goo.gl/maps/WvUJxFbKdFVeU7rj9) and I am student of the Master's Degree course in [Artificial Intelligence](https://didattica.di.unipi.it/laurea-magistrale-in-informatica/curricula/curriculum-artificial-intelligence/) at the Computer Science department of the University of Pisa. 
+During my studies I gained deep expertise in Machine Learning, Deep Learning and Neural Network models.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
