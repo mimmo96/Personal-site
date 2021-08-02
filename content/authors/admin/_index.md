@@ -6,12 +6,10 @@ title: Domenico Profumo
 superuser: true
 
 # Role/position/tagline
-role: Master of Science student in Artificial Intelligence <br> <br> Work at National Research Council Institute of Clinical Physiology
+role: Master of Science student in Artificial Intelligence <br> <br> Software Engineering at National Research Council Institute of Clinical Physiology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Pisa
-  url: https://www.unipi.it
 
 - name: National Research Council Institute of Clinical Physiology
   url: https://www.ifc.cnr.it/index.php/en/istituto/ifc
