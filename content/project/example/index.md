@@ -7,14 +7,14 @@ tags:
 date: "2021-06-09T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/mimmo96/ML_PROJECT"
+external_link: ""
 
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
-url_code: ""
+url_code: "https://github.com/mimmo96/ML_PROJECT"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -24,7 +24,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
 The aim of the project was to create a Neural Network that learn from training data using the
