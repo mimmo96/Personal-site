@@ -35,6 +35,8 @@ content:
     tag: C
   - name: Android
     tag: Android
+  - name: Python
+    tag: Python
   - name: Matlab
     tag: Matlab
   - name: Other

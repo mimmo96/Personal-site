@@ -16,8 +16,8 @@ main:
   - name: Projects
     url: '#projects'
     weight: 30
-  - name: Passion
-    url: '#passion'
+  - name: Passions
+    url: '#passions'
     weight: 40
   - name: Books
     url: '#books'
