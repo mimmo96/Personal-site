@@ -6,7 +6,7 @@ title: Domenico Profumo
 superuser: true
 
 # Role/position/tagline
-role: Master of Science student in Artificial Intelligence
+role: Master of Science student in Artificial Intelligence <br> Work at National Research Council Institute of Clinical Physiology
 
 # Organizations/Affiliations to show in About widget
 organizations:
