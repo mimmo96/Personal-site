@@ -38,14 +38,14 @@ experience:
         * Frontend
 
         
-  - title: Thesis
+  - title: Internship 
     company: University of Pisa
     company_url: 'https://didattica.di.unipi.it/laurea-in-informatica/'
 #    company_logo: 'https://upload.wikimedia.org/wikipedia/commons/9/94/Unipi_logo.jpg'
     location: Italy
     date_start: '2020-02-10'
     date_end: '2020-05-15'
-    description: Develop and Android Application for Control an IoT System for draining
+    description: Android Developer for remote control of an IoT system
 
 design:
   columns: '2'
