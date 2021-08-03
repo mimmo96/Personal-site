@@ -1,7 +1,6 @@
 ---
 title: Java Data Container
-summary: 
-The project consists in designing, implementing and documenting the SecureDataContainer collection constituted as a species Data storage for data specification and sharing (represented in the simulation from type E objects).
+summary: The project consists in designing, implementing and documenting the SecureDataContainer collection constituted as a species Data storage for data specification and sharing (represented in the simulation from type E objects).
 tags:
 - Java
 
