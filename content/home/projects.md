@@ -37,8 +37,8 @@ content:
     tag: Android
   - name: Python
     tag: Python
-  - name: Matlab
-    tag: Matlab
+  - name: MATLAB
+    tag: MATLAB
   - name: Other
     tag: Demo
 
