@@ -9,9 +9,9 @@ date: "2017-01-12T14:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/mimmo96/Java_data_container"
 
-#image:
-#  caption: Photo by rawpixel on Unsplash
-#  focal_point: Smart
+image:
+  caption: Jva Collection
+  focal_point: Smart
 
 links:
 url_code: "https://github.com/mimmo96/Java_data_container"

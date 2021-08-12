@@ -12,9 +12,9 @@ date: "2019-09-09T15:07:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/mimmo96/disTribUted-collaboRative-edItiNG"
 
-#image:
-#  caption: Photo by rawpixel on Unsplash
-#  focal_point: Smart
+image:
+  caption: Document Editing
+  focal_point: Smart
 
 links:
 url_code: "https://github.com/mimmo96/disTribUted-collaboRative-edItiNG"
