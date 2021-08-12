@@ -20,10 +20,12 @@ tags:
 - information retrival
 featured: false
 
+external_link: https://www.amazon.it/Introduction-Information-Retrieval-Christopher-Manning/dp/0521865719/ref=sr_1_1?__mk_it_IT=ÅMÅŽÕÑ&dchild=1&keywords=information+retrieval&qid=1628271092&sr=8-1
+
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.amazon.it/Introduction-Information-Retrieval-Christopher-Manning/dp/0521865719/ref=sr_1_1?__mk_it_IT=ÅMÅŽÕÑ&dchild=1&keywords=information+retrieval&qid=1628271092&sr=8-1
+url_pdf: ""
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -54,12 +56,3 @@ projects: []
 slides: ""
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
