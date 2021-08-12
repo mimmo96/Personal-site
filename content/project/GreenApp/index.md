@@ -10,9 +10,9 @@ date: "2020-06-09T00:10:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/mimmo96/GreenApp"
 
-#image:
-#  caption: Photo by rawpixel on Unsplash
-#  focal_point: Smart
+image:
+  caption: Green App
+  focal_point: Smart
 
 links:
 url_code: "https://github.com/mimmo96/GreenApp"

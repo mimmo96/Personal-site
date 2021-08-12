@@ -10,7 +10,7 @@ date: "2021-06-09T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Neural Network
   focal_point: Smart
 
 links:

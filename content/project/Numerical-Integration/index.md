@@ -10,9 +10,9 @@ date: "2019-11-24T19:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/mimmo96/numerical-integration"
 
-#image:
-#  caption: Photo by rawpixel on Unsplash
-#  focal_point: Smart
+image:
+  caption: Integration
+  focal_point: Smart
 
 links:
 url_code: "https://github.com/mimmo96/numerical-integration"

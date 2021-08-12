@@ -10,9 +10,9 @@ date: "2017-07-24T14:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/mimmo96/Ocaml_interpreter"
 
-#image:
-#  caption: Photo by rawpixel on Unsplash
-#  focal_point: Smart
+image:
+  caption: Ocaml
+  focal_point: Smart
 
 links:
 url_code: "https://github.com/mimmo96/Ocaml_interpreter"
