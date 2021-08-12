@@ -6,6 +6,7 @@ authors:
 - Hinrich Schütze
 date: "2020-09-01T00:00:00Z"
 doi: ""
+type: publication
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2008-07-07T00:00:00Z"
