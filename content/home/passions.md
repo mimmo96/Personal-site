@@ -16,6 +16,10 @@ weight: 70
 title: 'Passions and Hobbies'
 subtitle:
 
+image:
+  caption: Pasta
+  focal_point: Smart
+
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
