@@ -8,6 +8,10 @@ headless: true
 
 active: true
 
+content:
+  # Page type to display. E.g. post, talk, publication...
+  page_type: passions
+
 # Order that this section appears on the page.
 weight: 70
 
@@ -23,7 +27,8 @@ design:
 
 ---
 
-In my free time I am a lover of video games, what can be defined as PC gamer in particular I really like FPS games like Call Of Duty, Apex Legends, Valorant etc .. Other types of games are related to the world of adventures and football such as Fifa.
+In my free time I am a lover of video games, what can be defined as PC gamer in particular I really like FPS games like Call Of Duty, Apex Legends, Valorant etc .. 
+Other types of games are related to the world of adventures and football such as Fifa.
 
 I really like playing sports, I love football and I am a Juventus fan.
 
