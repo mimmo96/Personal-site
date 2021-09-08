@@ -16,9 +16,6 @@ weight: 70
 title: 'Passions and Hobbies'
 subtitle:
 
-image:
-  caption: Pasta
-  focal_point: Smart
 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -26,9 +23,10 @@ design:
 
 ---
 
-Nel mio tempo libero sono un amante dei videogiochi, quello che si può definire PC gamer in particolare mi piacciono molto i giochi FPS come Call Of Duty, Apex Legends, Valorant etc.. Altri tipi di gioco sono legati al mondo delle avventure e di calcio.
+In my free time I am a lover of video games, what can be defined as PC gamer in particular I really like FPS games like Call Of Duty, Apex Legends, Valorant etc .. Other types of games are related to the world of adventures and football such as Fifa.
 
-Mi piace molto fare sport, amo il calcio e sono un tifoso della Juventus.
+I really like playing sports, I love football and I am a Juventus fan.
 
-Un'altra mia passione riguarda il mondo della cucina in tutte le sue forme, in particolare mi appassiona lo sperimentare, usare la creatività per produrre nuove cose sempre più particolari. 
-Amo la pizza 
+Another passion concerns the world of cooking in all its forms, in particular I'm passionate experimenting, using creativity to produce new and more and more particular things.
+
+I love pizza!
