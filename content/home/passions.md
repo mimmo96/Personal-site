@@ -6,36 +6,26 @@ widget: blank
 # This file represents a page section.
 headless: true
 
+active: true
+
 # Order that this section appears on the page.
 weight: 70
+
+# ... Put Your Section Options Here (title etc.) ...
 
 title: 'Passions and Hobbies'
 subtitle:
 
-content:
-  # Page type to display. E.g. post, event, publication...
-  page_type: event
-  # Choose how many pages you would like to display (0 = all pages)
-  count: 5
-  # Filter on criteria
-  filters:
-    author: ""
-    category: ""
-    tag: ""
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
-    publication_type: ""
-  # Choose how many pages you would like to offset by
-  offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
-  order: desc
-
+weight: 10  # section position on page
 design:
-  # Choose a view for the listings:
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view: 2
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
+
 ---
+
+Nel mio tempo libero sono un amante dei videogiochi, quello che si può definire PC gamer in particolare mi piacciono molto i giochi FPS come Call Of Duty, Apex Legends, Valorant etc.. Altri tipi di gioco sono legati al mondo delle avventure e di calcio.
+
+Mi piace molto fare sport, amo il calcio e sono un tifoso della Juventus.
+
+Un'altra mia passione riguarda il mondo della cucina in tutte le sue forme, in particolare mi appassiona lo sperimentare, usare la creatività per produrre nuove cose sempre più particolari. 
+Amo la pizza 
