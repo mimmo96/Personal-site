@@ -25,6 +25,10 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 
+image:
+  placement: 1
+  caption: Pasta
+  focal_point: Left
 ---
 
 In my free time I am a lover of video games, what can be defined as PC gamer in particular I really like FPS games like Call Of Duty, Apex Legends, Valorant etc .. 
