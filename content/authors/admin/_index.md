@@ -35,7 +35,7 @@ education:
     year: 2020   
   - course: Scientific high school diploma
     institution: "Liceo Scientifico A.Sciascia, Canicattì (Agrigento)"
-    year: 2016 
+    year: 2015 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
