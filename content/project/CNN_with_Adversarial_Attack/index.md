@@ -1,22 +1,22 @@
 ---
-title: Kmeans and SIFT descriptors
-summary: Select an image from 4 different themes, for these images, extract the SIFT descriptors and run k-means to partition the descriptors in clusters.
+title: Convolutional neural network and adversarial attack to it
+summary: Implementation of personalized convolutional network, after network is trained, try an adversarial attack to it with the simple Fast Gradient Sign method
 tags:
-- Kmeans
-- SIFT
+- CNN
+- Adversarial Attack
 - Intelligent Systems
 
 date: "2022-01-09T00:10:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/mimmo96/Kmeans_with_SIFT_descriptors"
+external_link: "https://github.com/mimmo96/CNN_Adversarial_Attack"
 
 image:
-  caption: Kmeans-SIFT
+  caption: CNN
   focal_point: Smart
 
 links:
-url_code: "https://github.com/mimmo96/Kmeans_with_SIFT_descriptors"
+url_code: "https://github.com/mimmo96/CNN_Adversarial_Attack/blob/main/Adversial_Attack_with_CNN.ipynb"
 url_slides: ""
 url_video: ""
 

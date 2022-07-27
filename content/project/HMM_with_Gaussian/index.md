@@ -1,22 +1,22 @@
 ---
-title: Kmeans and SIFT descriptors
-summary: Select an image from 4 different themes, for these images, extract the SIFT descriptors and run k-means to partition the descriptors in clusters.
+title: Hidden Markov Model with Gaussian emissions
+summary: Hidden Markov Model with Gaussian emissions of the dataset which measure the energy consumption of appliances and lights, across a period of 4.5 months
 tags:
-- Kmeans
-- SIFT
+- Hidden Markov Model
+- Gaussian emissions
 - Intelligent Systems
 
-date: "2022-01-09T00:10:00Z"
+date: "2022-02-09T00:10:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/mimmo96/Kmeans_with_SIFT_descriptors"
+external_link: "https://github.com/mimmo96/HMM_Gaussian_emissions"
 
 image:
-  caption: Kmeans-SIFT
+  caption: HMM
   focal_point: Smart
 
 links:
-url_code: "https://github.com/mimmo96/Kmeans_with_SIFT_descriptors"
+url_code: "https://github.com/mimmo96/HMM_Gaussian_emissions"
 url_slides: ""
 url_video: ""
 
