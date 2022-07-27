@@ -19,9 +19,9 @@ bio: My interests include AI.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning
+- Natural language processing
+- Deep Learning
 - Data Mining
 
 # Education to show in About widget
@@ -29,13 +29,13 @@ education:
   courses:
   - course: MSc in Artificial Intelligence
     institution: University of Pisa
-    year: "Currently"
+    year: 2022/2023
   - course: BSc in Computer Science
     institution: University of Pisa
-    year: 2020   
+    year: 2020/2021   
   - course: Scientific high school diploma
     institution: "Liceo Scientifico A.Sciascia, Canicattì (Agrigento)"
-    year: 2015 
+    year: 2015/2016 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -74,6 +74,6 @@ email: ""
 highlight_name: false
 ---
 
-I'm a 26 years old Student of the Master's Degree course in [Artificial Intelligence](https://didattica.di.unipi.it/laurea-magistrale-in-informatica/curricula/curriculum-artificial-intelligence/) at the Computer Science department of the University of Pisa and at the same time work for [National Research Council Institute of Clinical Physiology](https://www.ifc.cnr.it/index.php/en/istituto/ifc) of Italy. <br> I currently live in [Pisa](https://goo.gl/maps/WvUJxFbKdFVeU7rj9) from six years and i'm expertise in Machine Learning, Deep Learning and Neural Network models. 
+I'm a 26 years old Student of the Master's Degree course in [Artificial Intelligence](https://didattica.di.unipi.it/laurea-magistrale-in-informatica/curricula/curriculum-artificial-intelligence/) at the Computer Science department of the University of Pisa and at the same time work for [National Research Council Institute of Clinical Physiology](https://www.ifc.cnr.it/index.php/en/istituto/ifc) of Italy. <br> I currently live in [Pisa](https://goo.gl/maps/WvUJxFbKdFVeU7rj9) since seven years and i'm expertise in Machine Learning, Deep Learning and Neural Network models. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1j5FzW4hct6aF4OhuJxxahTM83rg2X1SK/view?usp=sharing" "newtab" >}}Curriculum Vitae IT {{< /staticref >}}.
