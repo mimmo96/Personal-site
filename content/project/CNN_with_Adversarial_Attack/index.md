@@ -5,6 +5,8 @@ tags:
 - CNN
 - Adversarial Attack
 - Intelligent Systems
+- Machine Learning
+- Python
 
 date: "2022-01-09T00:10:00Z"
 

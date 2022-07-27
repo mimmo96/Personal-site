@@ -11,7 +11,7 @@ main:
     url: '#experience'
     weight: 20
   - name: CV
-    url: https://drive.google.com/file/d/1eVGh7xsfmNbWAQ_RvAQ0TpwF_R0I_UpB/view?usp=sharing
+    url: https://drive.google.com/file/d/1GL8PixcZurEL-wdNSX0w9uqFKPfiPp49/view?usp=sharing
     weight: 70
   - name: Projects
     url: '#projects'

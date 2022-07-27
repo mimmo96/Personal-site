@@ -5,6 +5,8 @@ tags:
 - Hidden Markov Model
 - Gaussian emissions
 - Intelligent Systems
+- Machine Learning
+- Python
 
 date: "2022-02-09T00:10:00Z"
 

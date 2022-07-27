@@ -76,4 +76,4 @@ highlight_name: false
 
 I'm a 26 years old Student of the Master's Degree course in [Artificial Intelligence](https://didattica.di.unipi.it/laurea-magistrale-in-informatica/curricula/curriculum-artificial-intelligence/) at the Computer Science department of the University of Pisa and at the same time work for [National Research Council Institute of Clinical Physiology](https://www.ifc.cnr.it/index.php/en/istituto/ifc) of Italy. <br> I currently live in [Pisa](https://goo.gl/maps/WvUJxFbKdFVeU7rj9) since seven years and i'm expertise in Machine Learning, Deep Learning and Neural Network models. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1j5FzW4hct6aF4OhuJxxahTM83rg2X1SK/view?usp=sharing" "newtab" >}}Curriculum Vitae IT {{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1GL8PixcZurEL-wdNSX0w9uqFKPfiPp49/view?usp=sharing" "newtab" >}}Short Curriculum Vitae IT {{< /staticref >}}  {{< staticref "https://drive.google.com/file/d/1j5FzW4hct6aF4OhuJxxahTM83rg2X1SK/view?usp=sharing" "newtab" >}}Full Curriculum Vitae IT {{< /staticref >}}.
