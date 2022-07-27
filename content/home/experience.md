@@ -22,13 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+  - title: Software Engineer
+    company: CNR-IFC
+    company_url: 'https://www.ifc.cnr.it/index.php/en/istituto/ifc'
+    company_logo: 'https://www.ifc.cnr.it/images/logo-ifc-esteso-ing.png'
+    location: Italy
+    date_start: '2021-05-11'
+    date_end: '2022-05-12'
+    description: |2-
+        * DevOps
+        * Docker Systems
+        * Css,HTML,Javascript,Jquery
+        * Git and relavtive tools
+
   - title: Software Engineer
     company: CNR-IFC
     company_url: 'https://www.ifc.cnr.it/index.php/en/istituto/ifc'
 #    company_logo: 'https://www.ifc.cnr.it/images/logo-ifc-esteso-ing.png'
     location: Italy
     date_start: '2020-11-12'
-    date_end: ''
+    date_end: '2021-01-12'
     description: |2-
         Responsibilities include:
         
