@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Domenico Profumo # Website name
-baseurl: 'https://domenicoprofumo.netlify.app # Website URL'
-copyright: ' <br/> Copyrights © 2021 |  Domenico Profumo  | All Rights Reserved.' # Footer text, e.g. '© {year} Me'
+baseurl: 'https://domenicoprofumo.netlify.app' # Website URL
+copyright: ' <br/> Copyrights © 2022 |  Domenico Profumo  | All Rights Reserved.' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
