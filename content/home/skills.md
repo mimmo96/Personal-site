@@ -20,11 +20,11 @@ feature:
   icon: code
   icon_pack: fas
   name: Full Stack developer
-- description: 70%
+- description: 85%
   icon: sitemap
   icon_pack: fas
   name: Learning models
-- description: 80%
+- description: 60%
   icon: mobile
   icon_pack: fas
   name: Mobile Developer
