@@ -28,6 +28,21 @@ experience:
     company_url: 'https://www.ifc.cnr.it/index.php/en/istituto/ifc'
 #    company_logo: 'https://www.ifc.cnr.it/images/logo-ifc-esteso-ing.png'
     location: Italy
+    date_start: '2022-09-12'
+    date_end: '2023-03-12'
+    description: |2-
+
+        * DevOps
+        * Docker Systems
+        * Database Management
+        * Deploying with Symfony Php framework
+        * Git and relavtive tools
+        
+  - title: Software Engineer
+    company: CNR-IFC
+    company_url: 'https://www.ifc.cnr.it/index.php/en/istituto/ifc'
+#    company_logo: 'https://www.ifc.cnr.it/images/logo-ifc-esteso-ing.png'
+    location: Italy
     date_start: '2021-05-11'
     date_end: '2022-05-12'
     description: |2-
